@@ -2,12 +2,15 @@
   padding: 0;
   box-sizing: border-box;}
 
+  body{background-color: #e7e7e7;}
+
 
 
 .headtitle{display: inline-block;
-            margin: 15px;
+            padding-left: 10px;
             width: 100%;
-            height: auto;}
+            height: auto;
+            background-color: white;}
            
 
 #title{ font-size: 30px;
@@ -15,3 +18,54 @@
         padding-left: 5px;
         vertical-align: 50%;}
 
+
+
+#task{
+    color:white;
+    background-color:#008cffa8;
+    padding: 4px;
+    border-radius: 3px;
+    border: 2px solid #e7e7e7;
+}
+
+
+#section {
+    color:grey;
+    background-color: transparent;
+    padding: 4px;
+    border: 2px solid #e7e7e7;
+    border-radius: 3px;
+    
+}
+
+/* Bottoni */
+.editorial{color:white;
+    background-color:#008cffa8;
+    padding: 4px;
+    border-radius: 3px;
+    border: 2px solid #e7e7e7;
+    display: inline-block;
+}
+
+
+.main-list {
+    width: 1000px;
+    margin: 10px auto;
+    background-color: white;
+    border-radius: 3px;
+   
+    
+    
+}
+
+.main-header {
+    border-bottom: 2px solid hsl(0, 0%, 89%);
+    padding: 15px 30px;
+    margin: 30px auto;
+}
+
+.boxtask{
+    margin: 30px;
+    }
+
+.textbox{}
