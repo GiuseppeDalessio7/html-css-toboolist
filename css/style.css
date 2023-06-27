@@ -44,8 +44,50 @@
     padding: 4px;
     border-radius: 3px;
     border: 2px solid #e7e7e7;
-    display: inline-block;
-}
+    display: inline-block;}
+
+.q1goals{color:white;
+    background-color:#ff00eaa8;
+    padding: 4px;
+    border-radius: 3px;
+    border: 2px solid #e7e7e7;
+    display: inline-block;}
+
+.recruting{color:white;
+    background-color:#6000faa8;
+    padding: 4px;
+    border-radius: 3px;
+    border: 2px solid #00ff40;
+    display: inline-block;}
+
+.sales{color:white;
+    background-color:#fbff00a8;
+    padding: 4px;
+    border-radius: 3px;
+    border: 2px solid #e7e7e7;
+    display: inline-block;}    
+
+.website{color:white;
+    background-color:#ff00eaa8;
+    padding: 4px;
+    border-radius: 3px;
+    border: 2px solid #e7e7e7;
+    display: inline-block;}
+
+.recruting{color:white;
+    background-color:#00ff9da8;
+    padding: 4px;
+    border-radius: 3px;
+    border: 2px solid #e7e7e7;
+    display: inline-block;}    
+
+.mobile{color:white;
+    background-color:#ff9100a8;
+    padding: 4px;
+    border-radius: 3px;
+    border: 2px solid #e7e7e7;
+    display: inline-block;}
+
 
 
 .main-list {
@@ -68,4 +110,10 @@
     margin: 30px;
     }
 
-.textbox{}
+.textbox{display: inline-block;}    
+
+.done{color: rgb(0, 255, 0);}
+.notdone{color: red;}
+
+
+
