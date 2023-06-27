@@ -7,11 +7,11 @@
 .headtitle{display: inline-block;
             margin: 15px;
             width: 100%;
-            height: auto;
-            position: relative;}
+            height: auto;}
+           
 
 #title{ font-size: 30px;
         font-weight: bold;
-        position: absolute;
-        float: left;
-        padding-left: 5px;}
+        padding-left: 5px;
+        vertical-align: 50%;}
+
