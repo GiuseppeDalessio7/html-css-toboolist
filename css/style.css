@@ -2,6 +2,9 @@
   padding: 0;
   box-sizing: border-box;}
 
+*{
+font-family: 'Mulish', sans-serif;}  
+
   body{background-color: #e7e7e7;}
 
 
@@ -94,12 +97,17 @@
 .boxtask{
     margin: 30px;
     margin-left: 30px;
+    
     }
 
-ul{list-style-type: none;}    
+ul{list-style-type: none;
+    margin-bottom: 10px;}    
+
+#items{padding-left: 20px;}
 
 .item{margin-left: 10px;
-    margin-bottom: 10px;}
+    margin-bottom: 20px;
+    }
 
 .textbox{display: inline-block;}    
 
